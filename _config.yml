@@ -1,0 +1,28 @@
+name: dannyfast
+favicon: null
+layout_spectrum: 0.956365656806156
+typography_spectrum: 0.3702057381160557
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8515881462953985
+  lightness: 0.04883281630463898
+  saturation: 0.6053845016285777
+  rhythmicContrast: 0.9642972839064896
+purpose: []
